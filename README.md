@@ -30,7 +30,7 @@ O Treine-me é um site referente a treinamentos.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/118742202228894732](https://www.figma.com/file/hfYvRiARnNsRBimpj5NEEY/Projeto01-Extra-(Copy)?type=design&node-id=1-2&mode=design&t=LexmSVtqQStFPpDo-0)1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/t3JyfuHL9IIUzwuSQLdVaP/Explorer---Projeto-02-(Copy)?type=design&node-id=0-1&mode=design&t=kbocAEyEaUqEBEDH-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
