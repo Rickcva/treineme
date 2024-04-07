@@ -7,7 +7,7 @@ Projeto feito como desafio feito pela rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Flutuar.com" src="./img/readme.svg" width="100%">
+  <img alt="Projeto Treine-me" src="./img/projeto.svg" width="100%">
 </p>
 
 <p align="center">
