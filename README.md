@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Treine-me é um site referente a treinamentos.
 
-- [Acesse o projeto finalizado, online]([https://rocketseat.com]https://app.rocketseat.com.br/journey/explorer)
+- [Acesse o projeto finalizado, online](https://app.rocketseat.com.br/journey/explorer)
 
 ## 🔖 Layout
 
